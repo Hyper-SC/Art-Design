@@ -1,0 +1,22 @@
+.design {
+    padding: 4.5rem 0 ;
+}
+
+.design-content {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.title {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.title {
+    h2{
+        font-family: var(--Playfair);
+        font-size: 2.4rem;
+    }
+}
